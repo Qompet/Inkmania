@@ -26,6 +26,7 @@ dist-ssr
 .env
 .env.local
 .env.*.local
+VERCEL_ENV_VARS.txt
 # Database
 *.db
 *.sqlite
